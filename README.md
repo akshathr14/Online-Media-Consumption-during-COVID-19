@@ -23,7 +23,7 @@ Usage hours rose sharply, yet higher post-COVID usage was linked to a lower rate
 
 ### **Repository Structure**
 * `Analysis.ipynb`: Full analysis from data loading to Z-tests and the correlation heatmap
-* `Cleaned Survey Data.xlsx`: The 40 responses used in the analysis
+* `Cleaned Survey Data.csv`: The 40 responses used in the analysis
 * `Survey Data.xlsx`: The 41 responses (40 used in the analysis plus one late response)
 * `Correlation Heatmap.png`: Correlation matrix
 * `Online Media Consumption during COVID-19.pdf`: Final PDF Report
