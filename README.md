@@ -23,9 +23,10 @@ Usage hours rose sharply, yet higher post-COVID usage was linked to a lower rate
 
 ### **Repository Structure**
 * `Analysis.ipynb`: Full analysis from data loading to Z-tests and the correlation heatmap
-* `Survey Data.xlsx`: The 40 responses used in the analysis.
-* `Correlation_Heatmap.png`: Correlation matrix
-* `Online Media ConsumpTion During COVID-19.pdf`: Final PDF Report
+* `Cleaned Survey Data.xlsx`: The 40 responses used in the analysis
+* `Survey Data.xlsx`: The 41 responses (40 used in the analysis plus one late response)
+* `Correlation Heatmap.png`: Correlation matrix
+* `Online Media ConsumpTion during COVID-19.pdf`: Final PDF Report
 * `Requirements.txt`: Python Libraries
 
 ### **How to Run**
