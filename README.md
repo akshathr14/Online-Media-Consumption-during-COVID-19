@@ -4,7 +4,7 @@
 This study examines how the 2020 lockdowns changed online media use and how respondents say it affected them. It uses a primary survey of 40 people and tests the main questions with Z-tests and correlation analysis.
 
 ### **The Core Insight: The "Consumption Paradox"**
-Usage hours rose sharply, yet higher post-COVID usage was linked to a lower rate of believing fake news **(r = -0.46)**. A possible explanation is that much of the usage was for education and work, not aimless scrolling. As digital platforms became essential for education and remote work, users effectively developed higher digital resilience and stronger "filtering" capabilities. The data here cannot prove why exactly.
+Usage hours rose sharply, yet higher post-COVID usage was linked to a lower rate of believing fake news **(r = -0.46)**. A possible explanation is that much of the usage was for education and work, not aimless scrolling. The data here cannot prove why exactly.
 
 ### **Key Findings**
 * **Consumption Shift:** The share of respondents using online media for 3+ hours a day rose from 17.5% before COVID to 60% during it (Two-proportion Z-test, p = 0.00005)
@@ -26,7 +26,7 @@ Usage hours rose sharply, yet higher post-COVID usage was linked to a lower rate
 * `Cleaned Survey Data.xlsx`: The 40 responses used in the analysis
 * `Survey Data.xlsx`: The 41 responses (40 used in the analysis plus one late response)
 * `Correlation Heatmap.png`: Correlation matrix
-* `Online Media ConsumpTion during COVID-19.pdf`: Final PDF Report
+* `Online Media Consumption during COVID-19.pdf`: Final PDF Report
 * `Requirements.txt`: Python Libraries
 
 ### **How to Run**
